@@ -1,0 +1,6 @@
+<div>
+  <% if picture.image_data? %>
+    <%= image_tag picture.image_url(:thumb) %>
+  <% end %>
+  <p><%= picture.name %> | <%= link_to 'Edit', api_v1_picture_path(picture), :method => :put %></p>
+</div>

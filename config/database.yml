@@ -1,0 +1,23 @@
+development:
+  adapter:  postgresql
+  host:     localhost
+  database: alina
+  pool:     5
+  username: developer
+  password: toshia
+
+test:
+  adapter:  postgresql
+  host:     localhost
+  database: alina
+  pool:     5
+  username: developer
+  password: toshia
+
+#production:
+#  adapter:  postgresql
+#  host:     localhost
+#  database: alina
+#  pool:     5
+#  username:
+#  password:

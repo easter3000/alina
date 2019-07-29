@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "name": "First One",
+  "date_of_creation": "2019-07-25",
+  "city": "Ижевск",
+  "user_id": 1,
+  "pictures_count": 4,
+  "pictures": [
+    {
+      "id": 1,
+      "project_id": 1,
+      "user_id": 1,
+      "project_name": "First One",
+      "name": "First One"
+    },
+    {
+      "id": 2,
+      "project_id": 1,
+      "user_id": 1,
+      "project_name": "First One",
+      "name": "First One"
+    },
+    {
+      "id": 3,
+      "project_id": 1,
+      "user_id": 1,
+      "project_name": "First One",
+      "name": "First One"
+    },
+    {
+      "id": 4,
+      "project_id": 1,
+      "user_id": 1,
+      "project_name": "First One",
+      "name": "First One"
+    }
+  ]
+}

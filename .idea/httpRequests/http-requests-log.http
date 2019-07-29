@@ -1,0 +1,414 @@
+GET http://localhost:3000/api/v1/pictures?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+GET http://localhost:3000/api/v1/pictures?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-29T075104.200.html
+
+###
+
+GET http://localhost:3000/api/v1/pictures?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-29T064529.200.html
+
+###
+
+GET http://localhost:3000/api/v1/pictures?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-29T064526.200.html
+
+###
+
+GET http://localhost:3000/api/v1/pictures?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-29T064454.500.txt
+
+###
+
+GET http://localhost:3000/api/v1/pictures?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+GET http://localhost:3000/api/v1/pictures?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+GET http://localhost:3000/api/v1/pictures/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+GET http://localhost:3000/api/v1/pictures/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+GET http://localhost:3000/api/v1/pictures/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+GET http://localhost:3000/api/v1/pictures/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+GET http://localhost:3000/api/v1/pictures/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+GET http://localhost:3000/api/v1/pictures/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+GET http://localhost:3000/api/v1/pictures/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+GET http://localhost:3000/api/v1/pictures/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+GET http://localhost:3000/api/v1/pictures/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+GET http://localhost:3000/api/v1/pictures/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+GET http://localhost:3000/api/v1/pictures/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+GET http://localhost:3000/api/v1/pictures?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+GET http://localhost:3000/api/v1/pictures?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+GET http://localhost:3000/api/v1/pictures?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+GET http://localhost:3000/api/v1/pictures?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+###
+
+POST http://localhost:3000/api/v1/pictures?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-29T061039.201.json
+
+###
+
+POST http://localhost:3000/api/v1/pictures?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-29T061038.422.txt
+
+###
+
+POST http://localhost:3000/api/v1/pictures?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-29T061013.422.txt
+
+###
+
+POST http://localhost:3000/api/v1/pictures?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-28T081355.422.json
+
+###
+
+GET http://localhost:3000/api/v1/projects/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-28T081324.200.json
+
+###
+
+POST http://localhost:3000/api/v1/pictures?api_v1_project[name]=First One&api_v1_project[date_of_creation]=2019-07-25&api_v1_project[city]=Ижевск&api_v1_project[user_id]=1&id=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-28T081248.400.txt
+
+###
+
+GET http://localhost:3000/api/v1/pictures?id=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-28T073416.200.json
+
+###
+
+GET http://localhost:3000/api/v1/pictures?api_v1_project[name]=First One&api_v1_project[date_of_creation]=2019-07-25&api_v1_project[city]=Ижевск&api_v1_project[user_id]=1&id=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-28T073357.200.json
+
+###
+
+GET http://localhost:3000/api/v1/pictures?api_v1_project[name]=First One&api_v1_project[date_of_creation]=2019-07-25&api_v1_project[city]=Ижевск&api_v1_project[user_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-28T073333.404.txt
+
+###
+
+POST http://localhost:3000/api/v1/pictures?api_v1_project[name]=First One&api_v1_project[date_of_creation]=2019-07-25&api_v1_project[city]=Ижевск&api_v1_project[user_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-28T073328.400.txt
+
+###
+
+POST http://localhost:3000/api/v1/projects?api_v1_project[name]=First One&api_v1_project[date_of_creation]=2019-07-25&api_v1_project[city]=Ижевск&api_v1_project[user_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-28T073051.201.json
+
+###
+
+POST http://localhost:3000/api/v1/potential_clients?api_v1_potential_client[first_name]=Петр&api_v1_potential_client[last_name]=Петров&api_v1_potential_client[email]=zp@hexelsoft.com
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-28T043808.201.json
+
+###
+
+POST http://localhost:3000/api/v1/potential_clients?api_v1_potential_client[first_name]=Петр&api_v1_potential_client[last_name]=Петров&api_v1_potential_client[email]=zp@hexelsoft.com
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-28T043723.500.txt
+
+###
+
+POST http://localhost:3000/api/v1/potential_clients?api_v1_potential_client[first_name]=Петр&api_v1_potential_client[last_name]=Петров&api_v1_potential_client[email]=zp@hexelsoft.com
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-28T043714.500.txt
+
+###
+
+POST http://localhost:3000/api/v1/potential_clients?api_v1_potential_client[first_name]=Петр&api_v1_potential_client[last_name]=Петров&api_v1_potential_client[email]=zp@hexelsoft.com
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-28T043638.500.txt
+
+###
+
+POST http://localhost:3000/api/v1/potential_clients?api_v1_potential_client[first_name]=Петр&api_v1_potential_client[last_name]=Петров&api_v1_potential_client[email]=zp@hexelsoft.com
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-27T071006.201.json
+
+###
+
+POST http://localhost:3000/api/v1/potential_clients?api_v1_potential_client[first_name]=Петр&api_v1_potential_client[last_name]=Петров&api_v1_potential_client[email]=zp@hexelsoft.com
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-27T064448.201.json
+
+###
+
+POST http://localhost:3000/api/v1/potential_clients?api_v1_potential_client[first_name]=Петр&api_v1_potential_client[last_name]=Петров&api_v1_potential_client[email]=zp@hexelsoft.com
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-27T063451.201.json
+
+###
+
+POST http://localhost:3000/api/v1/potential_clients?api_v1_potential_client[first_name]=Петр&api_v1_potential_client[last_name]=Петров&api_v1_potential_client[email]=zp@hexelsoft.com
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-27T063436.201.json
+
+###
+
+POST http://localhost:3000/api/v1/potential_clients?api_v1_potential_client[first_name]=Петр&api_v1_potential_client[last_name]=Петров&api_v1_potential_client[email]=zp@hexelsoft.com
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-27T062043.201.json
+
+###
+
+POST http://localhost:3000/api/v1/potential_clients?api_v1_potential_client[first_name]=Петр&api_v1_potential_client[last_name]=Петров&api_v1_potential_client[email]=easter3000@gmail.com
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-27T035422.201.json
+
+###
+
+GET http://localhost:3000/api/v1/projects/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-26T094431.200.json
+
+###
+
+GET http://localhost:3000/api/v1/projects/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-26T094146-1.200.json
+
+###
+
+GET http://localhost:3000/api/v1/projects/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-26T094146.200.json
+
+###
+
+GET http://localhost:3000/api/v1/projects/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-26T093957.200.json
+
+###
+
+GET http://localhost:3000/api/v1/projects/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-26T093956.200.json
+
+###
+
+GET http://localhost:3000/api/v1/projects/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-26T093917.200.json
+
+###
+
+GET http://localhost:3000/api/v1/projects/1?api_v1_picture[name]=First One&api_v1_picture[user_id]=1&api_v1_picture[project_id]=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxIiwic2NwIjoidXNlciIsImF1ZCI6bnVsbCwiaWF0IjoxNTYzOTc3MzMzLCJleHAiOjE2NTAzNzczMzMsImp0aSI6IjYyNTg2ZWRiLTZlNzAtNDUwNy1iM2FjLTIyNzljZjlkZTFmMiJ9.u1Neba5auUzz2Xn7PDL03fl6KCUGRW7vBFTfLIxB_fE
+
+<> 2019-07-26T093916.200.json
+
+###
+
