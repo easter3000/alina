@@ -29,7 +29,7 @@ gem 'daemons'
 gem 'figaro'
 gem 'active_model_serializers', '~> 0.10.0'
 gem 'cancancan'
-gem "shrine", "~> 2.0"
+gem "shrine", "~> 3.3"
 gem "image_processing"
 gem "mini_magick", ">= 4.3.5"
 
